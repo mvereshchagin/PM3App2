@@ -1,0 +1,12 @@
+/mnt/data/Misha/Projects/csharp/PM3App2/MathUtils/bin/Debug/net6.0/MathUtils.deps.json
+/mnt/data/Misha/Projects/csharp/PM3App2/MathUtils/bin/Debug/net6.0/MathUtils.dll
+/mnt/data/Misha/Projects/csharp/PM3App2/MathUtils/bin/Debug/net6.0/MathUtils.pdb
+/mnt/data/Misha/Projects/csharp/PM3App2/MathUtils/obj/Debug/net6.0/MathUtils.csproj.AssemblyReference.cache
+/mnt/data/Misha/Projects/csharp/PM3App2/MathUtils/obj/Debug/net6.0/MathUtils.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data/Misha/Projects/csharp/PM3App2/MathUtils/obj/Debug/net6.0/MathUtils.AssemblyInfoInputs.cache
+/mnt/data/Misha/Projects/csharp/PM3App2/MathUtils/obj/Debug/net6.0/MathUtils.AssemblyInfo.cs
+/mnt/data/Misha/Projects/csharp/PM3App2/MathUtils/obj/Debug/net6.0/MathUtils.csproj.CoreCompileInputs.cache
+/mnt/data/Misha/Projects/csharp/PM3App2/MathUtils/obj/Debug/net6.0/MathUtils.dll
+/mnt/data/Misha/Projects/csharp/PM3App2/MathUtils/obj/Debug/net6.0/refint/MathUtils.dll
+/mnt/data/Misha/Projects/csharp/PM3App2/MathUtils/obj/Debug/net6.0/MathUtils.pdb
+/mnt/data/Misha/Projects/csharp/PM3App2/MathUtils/obj/Debug/net6.0/ref/MathUtils.dll

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PM3App2", "PM3App2\PM3App2.csproj", "{1AF6B597-5326-463B-8929-EB0C35A88C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathUtils", "MathUtils\MathUtils.csproj", "{2620E692-5E89-4F77-AC12-6426BC05ACD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AF6B597-5326-463B-8929-EB0C35A88C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF6B597-5326-463B-8929-EB0C35A88C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF6B597-5326-463B-8929-EB0C35A88C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF6B597-5326-463B-8929-EB0C35A88C84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2620E692-5E89-4F77-AC12-6426BC05ACD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2620E692-5E89-4F77-AC12-6426BC05ACD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2620E692-5E89-4F77-AC12-6426BC05ACD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2620E692-5E89-4F77-AC12-6426BC05ACD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
